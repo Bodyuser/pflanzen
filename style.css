@@ -567,3 +567,7 @@ button {
 	font-size: 14px;
 	color: var(--gray);
 }
+
+.footer > p {
+	font-size: 14px;
+}
